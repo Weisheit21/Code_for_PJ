@@ -1,3 +1,4 @@
 # LiST
-MACOS
-PY_Excel
+MAC_OS;
+PY_SPD;
+PY_OS;
